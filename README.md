@@ -2,5 +2,5 @@
 
 ```python
 def mytorch():
-    return ("This is the pytorch implementation for GAN")
+    return ("This is the pytorch implementation for GANs")
     ```
